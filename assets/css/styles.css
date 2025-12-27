@@ -12,7 +12,7 @@
   --white-color: hsl(48, 90%, 90%);
   --text-color: hsl(220, 8%, 28%);
   --body-color: hsl(48, 80%, 90%);
-  --shadow-img: drop-shadow(0 16px 24px hsla(0, 0%, 0%, .2));
+  --shadow-img: drop-shadow(0 16px 24px hsla(0, 0%, 0%, 0.2));
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
@@ -24,8 +24,8 @@
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.25rem;
   --h3-font-size: 1rem;
-  --normal-font-size: .938rem;
-  --small-font-size: .813rem;
+  --normal-font-size: 0.938rem;
+  --small-font-size: 0.813rem;
 
   /*========== Font weight ==========*/
   --font-regular: 400;
@@ -47,7 +47,7 @@
     --h2-font-size: 1.5rem;
     --h3-font-size: 1.25rem;
     --normal-font-size: 1rem;
-    --small-font-size: .875rem;
+    --small-font-size: 0.875rem;
   }
 }
 
@@ -80,7 +80,10 @@ button {
   outline: none;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   color: var(--title-color);
   font-weight: var(--font-bold);
   font-family: var(--second-font);
@@ -115,7 +118,7 @@ img {
   padding-block: 5rem 1rem;
 }
 
-.section__title, 
+.section__title,
 .section__subtitle {
   text-align: center;
   font-family: var(--second-font);
@@ -129,7 +132,7 @@ img {
 .section__subtitle {
   display: block;
   font-size: var(--h2-font-size);
-  margin-bottom: .25rem;
+  margin-bottom: 0.25rem;
 }
 
 .main {
@@ -138,57 +141,39 @@ img {
 
 /*=============== HEADER & NAV ===============*/
 
-
 /* Navigation for mobile devices */
-
 
 /* Show menu */
 
-
 /* Add shadow header */
-
 
 /* Active link */
 
-
 /*=============== HOME ===============*/
-
 
 /*=============== BUTTON ===============*/
 
-
 /*=============== ABOUT ===============*/
-
 
 /*=============== ORDER ===============*/
 
-
 /*=============== COMBO ===============*/
-
 
 /*=============== CONTACT ===============*/
 
-
 /*=============== FOOTER ===============*/
-
 
 /*=============== SCROLL BAR ===============*/
 
-
 /*=============== SCROLL UP ===============*/
 
-
 /* Show Scroll Up */
-
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
-
 /* For medium devices */
 
-
 /* For large devices */
-
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

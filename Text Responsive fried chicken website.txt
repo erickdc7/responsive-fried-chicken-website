@@ -1,0 +1,123 @@
+========== HEADER ==========
+.nav__logo
+Fried <br> Chicken
+
+.nav__link
+HOME - ABOUT US - ORDERS - COMBO - CONTACT
+
+
+========== HOME ==========
+.home__title
+Crispy & <br> 
+Tasty <span>Fried</span> <br> 
+<span>Chicken</span> 
+
+.home__description
+Come enjoy the best and crispiest fried 
+chicken made with the best ingredients, 
+one bite and you'll want more.
+
+.button
+About Fried Chicken
+
+
+========== ABOUT ==========
+.section__subtitle .section__title
+You'll Want To Try
+More Than <br> 
+One Bite
+
+.about__description
+Our story begins with Grandma's recipe for the 
+crispiest fried chicken. Selecting the finest 
+ingredients and savoring it with your palate.
+
+.button
+Order Fried Chicken
+
+.about__tooltip-1 .about__tooltip-2
+Crispy & <br> Tasty
+Best Recipe <br> Since 1990
+
+
+========== ORDER ==========
+.section__title
+The Tastiest <br> 
+& <span>Most Bitten</span>
+
+.order__title .order__subtitle .order__price
+1 Mini <br> Bucket
+Fried chicken
+$12
+
+2 Mini <br> Bucket
+Fried chicken
+$20
+
+
+========== COMBO ==========
+.section__title
+<span>Supreme</span> <br> 
+Combo
+
+.combo__number
+1 - 2 - 3
+
+.combo__title
+COMBO
+
+.combo__info .combo__price
+<b>1kg of</b> <br> fried chicken
+$32
+
+
+========== CONTACT ==========
+.section__title
+<span>FLAVOR</span> <br>
+THAT <br>
+STAYS IN <br>
+THE MOUTH
+
+.contact__subtitle .contact__social
+Write to us
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://m.me/bedimcode
+https://t.me/telegram
+
+.contact__subtitle .contact__address
+Delivery
++00-987-654-321 <br>
++11-012345
+
+Location
+Lima - Sun City - Peru <br>
+Av. Moon #4321
+
+Attention
+Monday to Sunday <br>
+5pm - 11pm
+
+
+========== FOOTER ==========
+.footer__logo
+Fried <br> Chicken
+
+.footer__title
+Social
+  https://www.facebook.com/
+  https://www.instagram.com/
+  https://twitter.com/
+
+Payment methods
+
+Subscribe For Offers
+
+.footer__input
+Email
+
+.footer__button 
+Subscribe
+
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode

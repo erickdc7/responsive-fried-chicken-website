@@ -185,7 +185,7 @@ img {
   .nav__menu {
     position: fixed;
     top: 0;
-    right: 0;
+    right: -100%;
     background-color: var(--first-color);
     width: 80%;
     height: 100%;

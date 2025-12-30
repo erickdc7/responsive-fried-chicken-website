@@ -201,6 +201,12 @@ img {
   row-gap: 3.5rem;
 }
 
+.nav__link {
+  color: var(--black-color);
+  font-family: var(--second-font);
+  transition: color 0.4s;
+}
+
 /* Show menu */
 
 /* Add shadow header */

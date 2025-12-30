@@ -168,6 +168,11 @@ img {
   width: 1.5rem;
 }
 
+.nav__logo span {
+  color: var(--black-color);
+  font-weight: var(--font-semi-bold);
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */

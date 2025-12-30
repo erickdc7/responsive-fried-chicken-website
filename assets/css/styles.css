@@ -181,6 +181,19 @@ img {
 }
 
 /* Navigation for mobile devices */
+@media screen and (max-width: 1150px) {
+  .nav__menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: var(--first-color);
+    width: 80%;
+    height: 100%;
+    padding: 8rem 3.5rem 0;
+    box-shadow: -4px 0 16px hsla(0, 0%, 0%, 0.1);
+    transition: right 0.4s;
+  }
+}
 
 /* Show menu */
 

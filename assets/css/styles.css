@@ -207,6 +207,10 @@ img {
   transition: color 0.4s;
 }
 
+.nav__link:hover {
+  color: var(--white-color);
+}
+
 /* Show menu */
 
 /* Add shadow header */

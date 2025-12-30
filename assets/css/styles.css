@@ -195,6 +195,12 @@ img {
   }
 }
 
+.nav__list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 3.5rem;
+}
+
 /* Show menu */
 
 /* Add shadow header */

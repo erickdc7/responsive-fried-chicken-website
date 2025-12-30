@@ -164,6 +164,10 @@ img {
   column-gap: 0.25rem;
 }
 
+.nav__logo img {
+  width: 1.5rem;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */

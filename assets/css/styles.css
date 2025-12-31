@@ -296,6 +296,12 @@ img {
   bottom: -1.25rem;
 }
 
+.home__dam-5 {
+  width: 80px;
+  top: 5rem;
+  left: -2.5rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;

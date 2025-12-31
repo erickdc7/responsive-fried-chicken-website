@@ -268,6 +268,12 @@ img {
   right: -1.5rem;
 }
 
+.home__dam-2 {
+  width: 80px;
+  top: -3.5rem;
+  left: -2.5rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;

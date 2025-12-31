@@ -284,6 +284,12 @@ img {
   filter: var(--shadow-img);
 }
 
+.home__dam-3 {
+  width: 60px;
+  top: -2rem;
+  right: -1rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;

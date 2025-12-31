@@ -227,6 +227,9 @@ img {
 /* Active link */
 
 /*=============== HOME ===============*/
+.home {
+  background-color: var(--first-color);
+}
 
 /*=============== BUTTON ===============*/
 

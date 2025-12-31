@@ -236,6 +236,11 @@ img {
   row-gap: 3rem;
 }
 
+.home__data {
+  position: relative;
+  text-align: center;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

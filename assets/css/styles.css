@@ -255,6 +255,15 @@ img {
 }
 
 /*=============== BUTTON ===============*/
+.button {
+  display: inline-flex;
+  background-color: var(--black-color);
+  color: var(--white-color);
+  padding: 1rem 2rem;
+  font-weight: var(--font-semi-bold);
+  border-radius: 0.75rem;
+  transition: box-shadow 0.4s;
+}
 
 /*=============== ABOUT ===============*/
 

@@ -274,6 +274,11 @@ img {
   left: -2.5rem;
 }
 
+.home__images {
+  position: relative;
+  justify-self: center;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;

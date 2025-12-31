@@ -262,6 +262,12 @@ img {
   position: absolute;
 }
 
+.home__dam-1 {
+  width: 60px;
+  top: 4.5rem;
+  right: -1.5rem;
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;

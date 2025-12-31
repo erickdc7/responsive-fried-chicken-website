@@ -231,6 +231,11 @@ img {
   background-color: var(--first-color);
 }
 
+.home__container {
+  padding-block: 4rem 1rem;
+  row-gap: 3rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

@@ -265,6 +265,10 @@ img {
   transition: box-shadow 0.4s;
 }
 
+.button:hover {
+  box-shadow: 0 8px 24px hsla(0, 0%, 0%, 0.2);
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== ORDER ===============*/

@@ -250,6 +250,10 @@ img {
   color: var(--white-color);
 }
 
+.home__description {
+  margin-bottom: 2rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/

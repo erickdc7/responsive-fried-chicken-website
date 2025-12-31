@@ -279,6 +279,11 @@ img {
   justify-self: center;
 }
 
+.home__img {
+  width: 280px;
+  filter: var(--shadow-img);
+}
+
 /*=============== BUTTON ===============*/
 .button {
   display: inline-flex;

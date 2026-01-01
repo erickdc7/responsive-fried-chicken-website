@@ -386,6 +386,20 @@ img {
   z-index: 10;
 }
 
+.about__tooltip-1::after,
+.about__tooltip-2::after {
+  content: "";
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto 0;
+  rotate: 45deg;
+  border-radius: 0.25rem;
+  background-color: red;
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

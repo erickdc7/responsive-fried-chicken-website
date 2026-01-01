@@ -355,6 +355,14 @@ img {
   filter: var(--shadow-img);
 }
 
+.about__img-2 {
+  width: 210px;
+  position: absolute;
+  top: -6.5rem;
+  right: -2rem;
+  filter: var(--shadow-img);
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

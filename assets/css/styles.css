@@ -372,6 +372,12 @@ img {
   font-weight: var(--font-semi-bold);
 }
 
+.about__tooltip-1 {
+  background-color: var(--white-color);
+  top: -4rem;
+  left: 0;
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

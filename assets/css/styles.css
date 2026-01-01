@@ -363,6 +363,15 @@ img {
   filter: var(--shadow-img);
 }
 
+.about__tooltip-1,
+.about__tooltip-2 {
+  position: absolute;
+  display: inline-block;
+  padding: 0.25rem 1.5rem;
+  border-radius: 0.75rem;
+  font-weight: var(--font-semi-bold);
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

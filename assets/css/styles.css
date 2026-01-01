@@ -342,6 +342,12 @@ img {
   margin-bottom: 2rem;
 }
 
+.about__images {
+  position: relative;
+  justify-self: center;
+  margin-right: 2rem;
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

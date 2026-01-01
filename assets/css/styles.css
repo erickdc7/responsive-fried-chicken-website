@@ -325,6 +325,11 @@ img {
   background-color: var(--first-color);
 }
 
+.about__container {
+  padding-bottom: 3rem;
+  row-gap: 9rem;
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

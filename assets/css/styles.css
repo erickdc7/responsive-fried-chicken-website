@@ -405,6 +405,11 @@ img {
   background-color: var(--white-color);
 }
 
+.about__tooltip-2::after {
+  left: -8px;
+  background-color: var(--black-color);
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

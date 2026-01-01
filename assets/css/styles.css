@@ -378,6 +378,14 @@ img {
   left: 0;
 }
 
+.about__tooltip-2 {
+  background-color: var(--black-color);
+  color: var(--white-color);
+  right: -3rem;
+  bottom: 3rem;
+  z-index: 10;
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

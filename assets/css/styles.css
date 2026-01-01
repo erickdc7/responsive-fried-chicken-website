@@ -321,6 +321,9 @@ img {
 }
 
 /*=============== ABOUT ===============*/
+.about {
+  background-color: var(--first-color);
+}
 
 /*=============== ORDER ===============*/
 

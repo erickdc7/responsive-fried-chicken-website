@@ -348,6 +348,13 @@ img {
   margin-right: 2rem;
 }
 
+.about__img-1 {
+  width: 280px;
+  position: relative;
+  z-index: 10;
+  filter: var(--shadow-img);
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

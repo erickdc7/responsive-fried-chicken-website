@@ -334,6 +334,10 @@ img {
   text-align: center;
 }
 
+.about__data .section__subtitle {
+  color: var(--white-color);
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

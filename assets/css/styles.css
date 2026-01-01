@@ -411,6 +411,9 @@ img {
 }
 
 /*=============== ORDER ===============*/
+.order .section__title span {
+  color: var(--first-color);
+}
 
 /*=============== COMBO ===============*/
 

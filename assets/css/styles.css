@@ -419,6 +419,11 @@ img {
   padding-block: 1.5rem 3rem;
 }
 
+.order__card {
+  position: relative;
+  display: grid;
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

@@ -415,6 +415,10 @@ img {
   color: var(--first-color);
 }
 
+.order__container {
+  padding-block: 1.5rem 3rem;
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

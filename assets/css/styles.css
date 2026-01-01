@@ -424,6 +424,11 @@ img {
   display: grid;
 }
 
+.order__img-1 {
+  width: 190px;
+  filter: var(--shadow-img);
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

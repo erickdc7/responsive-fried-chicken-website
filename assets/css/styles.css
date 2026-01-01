@@ -330,6 +330,10 @@ img {
   row-gap: 9rem;
 }
 
+.about__data {
+  text-align: center;
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

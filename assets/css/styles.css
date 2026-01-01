@@ -338,6 +338,10 @@ img {
   color: var(--white-color);
 }
 
+.about__description {
+  margin-bottom: 2rem;
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

@@ -400,6 +400,11 @@ img {
   background-color: red;
 }
 
+.about__tooltip-1::after {
+  right: -8px;
+  background-color: var(--white-color);
+}
+
 /*=============== ORDER ===============*/
 
 /*=============== COMBO ===============*/

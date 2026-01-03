@@ -455,6 +455,16 @@ img {
   right: -3rem;
 }
 
+.order__tooltip-1,
+.order__tooltip-2 {
+  position: absolute;
+  background-color: var(--first-color);
+  align-self: center;
+  padding: 0.75rem 2rem 0.75rem 0.75rem;
+  border-radius: 1.5rem;
+  z-index: 5;
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

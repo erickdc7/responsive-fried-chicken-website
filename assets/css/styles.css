@@ -442,6 +442,12 @@ img {
   align-self: center;
 }
 
+.order__shape-1 {
+  width: 180px;
+  height: 100px;
+  left: -3rem;
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

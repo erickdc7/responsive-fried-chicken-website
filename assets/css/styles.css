@@ -440,6 +440,7 @@ img {
   background-color: var(--first-color);
   border-radius: 1rem;
   align-self: center;
+  position: absolute;
 }
 
 .order__shape-1 {

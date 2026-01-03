@@ -507,6 +507,21 @@ img {
   font-size: var(--h2-font-size);
 }
 
+.order__button {
+  width: 32px;
+  height: 32px;
+  display: grid;
+  place-items: center;
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+  background-color: var(--black-color);
+  color: var(--first-color);
+  position: absolute;
+  right: 0.75rem;
+  bottom: 0.75rem;
+  cursor: pointer;
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

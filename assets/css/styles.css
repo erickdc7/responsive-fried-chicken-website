@@ -497,6 +497,12 @@ img {
   color: var(--white-color);
 }
 
+.order__subtitle {
+  display: inline-block;
+  font-size: var(--small-font-size);
+  margin-bottom: 1.25rem;
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

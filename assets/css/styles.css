@@ -435,6 +435,13 @@ img {
   filter: var(--shadow-img);
 }
 
+.order__shape-1,
+.order__shape-2 {
+  background-color: var(--first-color);
+  border-radius: 1rem;
+  align-self: center;
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

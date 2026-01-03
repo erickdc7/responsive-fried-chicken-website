@@ -481,7 +481,7 @@ img {
   position: absolute;
   top: 0;
   bottom: 0;
-  background-color: red;
+  background-color: var(--first-color);
   margin: auto 0;
   rotate: 45deg;
   border-radius: 0.25rem;

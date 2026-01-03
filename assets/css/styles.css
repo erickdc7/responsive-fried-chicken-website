@@ -503,6 +503,10 @@ img {
   margin-bottom: 1.25rem;
 }
 
+.order__price {
+  font-size: var(--h2-font-size);
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

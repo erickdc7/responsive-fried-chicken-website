@@ -473,6 +473,21 @@ img {
   left: 0;
 }
 
+.order__tooltip-1::after,
+.order__tooltip-2::after {
+  content: "";
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  background-color: red;
+  margin: auto 0;
+  rotate: 45deg;
+  border-radius: 0.25rem;
+  z-index: -1;
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

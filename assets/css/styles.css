@@ -429,6 +429,12 @@ img {
   filter: var(--shadow-img);
 }
 
+.order__img-2 {
+  width: 250px;
+  justify-self: flex-end;
+  filter: var(--shadow-img);
+}
+
 /*=============== COMBO ===============*/
 
 /*=============== CONTACT ===============*/

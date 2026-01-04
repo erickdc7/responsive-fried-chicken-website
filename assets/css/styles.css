@@ -592,6 +592,13 @@ img {
   justify-self: center;
 }
 
+.combo__info {
+  background-color: var(--white-color);
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  font-size: var(--small-font-size);
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/

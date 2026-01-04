@@ -599,6 +599,10 @@ img {
   font-size: var(--small-font-size);
 }
 
+.combo__info b {
+  font-family: var(--second-font);
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/

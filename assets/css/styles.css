@@ -523,6 +523,9 @@ img {
 }
 
 /*=============== COMBO ===============*/
+.combo {
+  background-color: var(--first-color);
+}
 
 /*=============== CONTACT ===============*/
 

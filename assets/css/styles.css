@@ -570,6 +570,13 @@ img {
   font-size: 1.25rem;
 }
 
+.combo__title {
+  font-size: var(--biggest-font-size);
+  color: var(--white-color);
+  line-height: 110%;
+  letter-spacing: 10px;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/

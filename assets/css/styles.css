@@ -566,6 +566,10 @@ img {
   font-family: var(--second-font);
 }
 
+.combo__number i {
+  font-size: 1.25rem;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/

@@ -555,6 +555,12 @@ img {
   column-gap: 4rem;
 }
 
+.combo__number {
+  display: grid;
+  row-gap: 0.25rem;
+  text-align: center;
+}
+
 .combo__number span {
   font-size: var(--h3-font-size);
   font-family: var(--second-font);

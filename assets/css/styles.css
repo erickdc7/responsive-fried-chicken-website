@@ -577,6 +577,12 @@ img {
   letter-spacing: 10px;
 }
 
+.combo__titles {
+  position: absolute;
+  top: 0;
+  justify-self: center;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/

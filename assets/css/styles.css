@@ -547,6 +547,14 @@ img {
   z-index: 5;
 }
 
+.combo__numbers {
+  position: absolute;
+  top: -3rem;
+  justify-self: center;
+  display: flex;
+  column-gap: 4rem;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/

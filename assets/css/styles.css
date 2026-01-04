@@ -540,6 +540,13 @@ img {
   display: grid;
 }
 
+.combo__img {
+  width: 320px;
+  justify-self: center;
+  filter: var(--shadow-img);
+  z-index: 5;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/

@@ -603,6 +603,15 @@ img {
   font-family: var(--second-font);
 }
 
+.combo__price {
+  background-color: var(--black-color);
+  color: var(--first-color);
+  padding: 1.25rem;
+  border-radius: 1rem;
+  font-size: var(--h1-font-size);
+  font-family: var(--second-font);
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/

@@ -555,6 +555,11 @@ img {
   column-gap: 4rem;
 }
 
+.combo__number span {
+  font-size: var(--h3-font-size);
+  font-family: var(--second-font);
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/

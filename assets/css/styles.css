@@ -535,6 +535,11 @@ img {
   padding-block: 4rem 9rem;
 }
 
+.combo__content {
+  position: relative;
+  display: grid;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/

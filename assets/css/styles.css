@@ -492,6 +492,10 @@ img {
   left: -8px;
 }
 
+.order__tooltip-2::after {
+  right: -8px;
+}
+
 .order__title {
   font-size: var(--normal-font-size);
   color: var(--white-color);

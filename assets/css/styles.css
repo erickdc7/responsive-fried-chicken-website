@@ -613,6 +613,11 @@ img {
 }
 
 /*=============== CONTACT ===============*/
+.contact__container {
+  padding-block: 4rem 3rem;
+  row-gap: 3rem;
+  justify-content: center;
+}
 
 /*=============== FOOTER ===============*/
 

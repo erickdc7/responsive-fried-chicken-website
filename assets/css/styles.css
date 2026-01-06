@@ -619,6 +619,10 @@ img {
   justify-content: center;
 }
 
+.contact__data {
+  position: relative;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

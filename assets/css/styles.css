@@ -663,6 +663,12 @@ img {
   right: 1rem;
 }
 
+.contact__dam-2 {
+  width: 80px;
+  right: -2rem;
+  bottom: -6rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

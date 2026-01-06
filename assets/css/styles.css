@@ -690,6 +690,12 @@ img {
   margin-bottom: 0.75rem;
 }
 
+.contact__social {
+  display: flex;
+  justify-content: center;
+  column-gap: 1rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

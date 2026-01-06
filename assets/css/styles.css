@@ -627,6 +627,11 @@ img {
   font-size: var(--bigger-font-size);
 }
 
+.contact__title span {
+  font-size: var(--biggest-font-size);
+  color: var(--first-color);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

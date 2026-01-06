@@ -706,6 +706,12 @@ img {
   transform: translateY(-0.25rem);
 }
 
+.contact__address {
+  color: var(--text-color);
+  font-style: initial;
+  font-weight: var(--font-semi-bold);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

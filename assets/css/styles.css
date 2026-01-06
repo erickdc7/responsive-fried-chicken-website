@@ -681,6 +681,10 @@ img {
   left: -2rem;
 }
 
+.contact__info {
+  text-align: center;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

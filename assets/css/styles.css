@@ -638,6 +638,12 @@ img {
   filter: var(--shadow-img);
 }
 
+.contact__img-1 {
+  width: 110px;
+  top: 1.5rem;
+  right: 4rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

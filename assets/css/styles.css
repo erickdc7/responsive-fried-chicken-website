@@ -650,6 +650,13 @@ img {
   right: 2rem;
 }
 
+.contact__dam-1,
+.contact__dam-2,
+.contact__dam-3,
+.contact__dam-4 {
+  position: absolute;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

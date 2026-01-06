@@ -685,6 +685,11 @@ img {
   text-align: center;
 }
 
+.contact__subtitle {
+  font-size: var(--h3-font-size);
+  margin-bottom: 0.75rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

@@ -657,6 +657,12 @@ img {
   position: absolute;
 }
 
+.contact__dam-1 {
+  width: 60px;
+  top: -4rem;
+  right: 1rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

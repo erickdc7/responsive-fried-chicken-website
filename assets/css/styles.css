@@ -632,6 +632,12 @@ img {
   color: var(--first-color);
 }
 
+.contact__img-1,
+.contact__img-2 {
+  position: absolute;
+  filter: var(--shadow-img);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/

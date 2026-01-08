@@ -807,6 +807,10 @@ img {
   background-color: hsl(30, 32%, 70%);
 }
 
+::-webkit-scrollbar-thumb {
+  background-color: hsl(30, 32%, 60%);
+}
+
 /*=============== SCROLL UP ===============*/
 
 /* Show Scroll Up */

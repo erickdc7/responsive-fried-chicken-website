@@ -788,6 +788,12 @@ img {
   color: var(--black-color);
 }
 
+.footer__button {
+  padding: 1rem 1.5rem;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

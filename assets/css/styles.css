@@ -757,6 +757,12 @@ img {
   text-align: center;
 }
 
+.footer__social-link {
+  font-size: 1.5rem;
+  color: var(--black-color);
+  transition: transform 0.4s;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

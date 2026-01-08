@@ -734,6 +734,10 @@ img {
   column-gap: 0.25rem;
 }
 
+.footer__logo img {
+  width: 1.5rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

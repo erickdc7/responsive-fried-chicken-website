@@ -743,6 +743,14 @@ img {
   font-weight: var(--font-semi-bold);
 }
 
+.footer__social,
+.footer__pay,
+.footer__form {
+  display: flex;
+  justify-self: center;
+  column-gap: 1rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

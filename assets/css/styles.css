@@ -717,6 +717,10 @@ img {
 }
 
 /*=============== FOOTER ===============*/
+.footer {
+  background-color: var(--first-color);
+  padding-block: 3rem 2rem;
+}
 
 /*=============== SCROLL BAR ===============*/
 

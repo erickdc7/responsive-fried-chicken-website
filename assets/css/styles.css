@@ -777,6 +777,13 @@ img {
   border-radius: 1rem;
 }
 
+.footer__input {
+  width: 100%;
+  background: transparent;
+  padding-left: 0.5rem;
+  color: var(--black-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

@@ -738,6 +738,11 @@ img {
   width: 1.5rem;
 }
 
+.footer__logo span {
+  color: var(--black-color);
+  font-weight: var(--font-semi-bold);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

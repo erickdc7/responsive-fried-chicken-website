@@ -784,6 +784,10 @@ img {
   color: var(--black-color);
 }
 
+.footer__input::placeholder {
+  color: var(--black-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

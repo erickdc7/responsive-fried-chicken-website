@@ -771,6 +771,12 @@ img {
   width: 30px;
 }
 
+.footer__form {
+  background-color: var(--white-color);
+  padding: 0.5rem;
+  border-radius: 1rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

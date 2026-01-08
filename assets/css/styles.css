@@ -767,6 +767,10 @@ img {
   transform: translateY(-0.25rem);
 }
 
+.footer__pay-card {
+  width: 30px;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

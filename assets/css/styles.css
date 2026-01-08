@@ -727,6 +727,13 @@ img {
   row-gap: 3rem;
 }
 
+.footer__logo {
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  column-gap: 0.25rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

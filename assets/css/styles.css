@@ -751,6 +751,12 @@ img {
   column-gap: 1rem;
 }
 
+.footer__title {
+  font-size: var(--h3-font-size);
+  margin-bottom: 0.75rem;
+  text-align: center;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

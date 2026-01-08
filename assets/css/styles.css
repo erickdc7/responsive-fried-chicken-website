@@ -722,6 +722,11 @@ img {
   padding-block: 3rem 2rem;
 }
 
+.footer__container,
+.footer__content {
+  row-gap: 3rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/

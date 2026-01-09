@@ -867,7 +867,8 @@ img {
     width: 55%;
   }
 
-  .home__container {
+  .home__container,
+  .about__container {
     grid-template-columns: 400px;
     justify-content: center;
   }

@@ -853,6 +853,10 @@ img {
   .home__title {
     font-size: 2rem;
   }
+
+  .combo__title {
+    font-size: 2.5rem;
+  }
 }
 
 /* For medium devices */

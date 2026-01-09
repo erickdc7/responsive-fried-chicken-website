@@ -855,7 +855,8 @@ img {
     font-size: 2rem;
   }
 
-  .combo__title {
+  .combo__title,
+  .contact__title span {
     font-size: 2.5rem;
   }
 }

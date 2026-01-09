@@ -919,6 +919,11 @@ img {
     position: relative;
     z-index: 5;
   }
+
+  .home__description {
+    margin-bottom: 3.5rem;
+    padding-right: 7.75rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

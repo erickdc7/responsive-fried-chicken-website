@@ -884,6 +884,10 @@ img {
   .section {
     padding-block: 7rem 2rem;
   }
+
+  .nav {
+    height: calc(var(--header-height) + 2rem);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -228,8 +228,8 @@ img {
 }
 
 /* Active link */
-.active-link{
-  
+.active-link {
+  color: var(--white-color);
 }
 
 /*=============== HOME ===============*/

@@ -849,6 +849,10 @@ img {
   .container {
     margin-inline: 1rem;
   }
+
+  .home__title {
+    font-size: 2rem;
+  }
 }
 
 /* For medium devices */

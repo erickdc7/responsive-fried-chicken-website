@@ -850,7 +850,8 @@ img {
     margin-inline: 1rem;
   }
 
-  .home__title {
+  .home__title,
+  .contact__title {
     font-size: 2rem;
   }
 

@@ -862,6 +862,11 @@ img {
 }
 
 /* For medium devices */
+@media screen and (min-width: 576px) {
+  .nav__menu {
+    width: 55%;
+  }
+}
 
 /* For large devices */
 

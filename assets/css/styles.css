@@ -893,6 +893,10 @@ img {
   .nav__close {
     display: none;
   }
+
+  .nav__menu {
+    width: initial;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

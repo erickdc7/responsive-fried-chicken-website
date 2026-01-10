@@ -979,6 +979,10 @@ img {
   .about__data :is(.section__title, .section__subtitle) {
     text-align: initial;
   }
+
+  .about__description {
+    margin-bottom: 3.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

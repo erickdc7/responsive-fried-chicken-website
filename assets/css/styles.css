@@ -937,6 +937,12 @@ img {
     top: -4.5rem;
     left: -4.5rem;
   }
+
+  .home__img {
+    width: 550px;
+    position: relative;
+    z-index: 5;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

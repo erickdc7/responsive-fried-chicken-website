@@ -975,6 +975,10 @@ img {
     text-align: initial;
     margin-bottom: 7rem;
   }
+
+  .about__data :is(.section__title, .section__subtitle) {
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

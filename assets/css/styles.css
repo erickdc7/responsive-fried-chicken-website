@@ -1045,6 +1045,12 @@ img {
   .order__card:nth-child(2) {
     justify-self: flex-end;
   }
+
+  .order__tooltip-1,
+  .order__tooltip-2 {
+    padding: 1.25rem 4rem 1.25rem 1.25rem;
+    border-radius: 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

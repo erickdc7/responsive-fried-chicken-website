@@ -1009,6 +1009,12 @@ img {
     right: -4rem;
     bottom: 8rem;
   }
+
+  .order__container {
+    grid-template-columns: 740px;
+    row-gap: 0;
+    padding-block: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

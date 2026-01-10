@@ -931,6 +931,12 @@ img {
     top: initial;
     bottom: -1rem;
   }
+
+  .home__dam-2 {
+    width: 120px;
+    top: -4.5rem;
+    left: -4.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

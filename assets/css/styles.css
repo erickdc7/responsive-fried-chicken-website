@@ -1055,6 +1055,10 @@ img {
   .order__tooltip-1 {
     right: -16rem;
   }
+
+  .order__tooltip-2 {
+    left: -16rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

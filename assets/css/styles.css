@@ -987,6 +987,10 @@ img {
   .about__images {
     margin-right: 0;
   }
+
+  .about__img-1 {
+    width: 460px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

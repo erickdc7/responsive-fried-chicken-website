@@ -997,6 +997,12 @@ img {
     top: -11rem;
     right: -6.5rem;
   }
+
+  .about__tooltip-1 {
+    font-size: var(--h3-font-size);
+    top: -5rem;
+    left: 5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

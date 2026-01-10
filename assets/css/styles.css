@@ -1030,6 +1030,13 @@ img {
     border-radius: 2rem;
     left: -6rem;
   }
+
+  .order__shape-2 {
+    width: 330px;
+    height: 260px;
+    border-radius: 2rem;
+    right: -6rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -1019,6 +1019,10 @@ img {
   .order__img-1 {
     width: 340px;
   }
+
+  .order__img-2 {
+    width: 450px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

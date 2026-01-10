@@ -1051,6 +1051,10 @@ img {
     padding: 1.25rem 4rem 1.25rem 1.25rem;
     border-radius: 2rem;
   }
+
+  .order__tooltip-1 {
+    right: -16rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

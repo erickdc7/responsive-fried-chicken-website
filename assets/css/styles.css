@@ -943,6 +943,12 @@ img {
     position: relative;
     z-index: 5;
   }
+
+  .home__dam-3 {
+    width: 110px;
+    top: -3.5rem;
+    right: -2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

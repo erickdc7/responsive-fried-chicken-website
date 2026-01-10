@@ -983,6 +983,10 @@ img {
   .about__description {
     margin-bottom: 3.5rem;
   }
+
+  .about__images {
+    margin-right: 0;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

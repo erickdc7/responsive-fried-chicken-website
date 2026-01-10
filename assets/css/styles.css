@@ -1037,6 +1037,10 @@ img {
     border-radius: 2rem;
     right: -6rem;
   }
+
+  .order__card:nth-child(1) {
+    justify-self: flex-start;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

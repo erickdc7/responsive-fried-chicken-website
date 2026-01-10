@@ -1015,6 +1015,10 @@ img {
     row-gap: 0;
     padding-block: 4rem;
   }
+
+  .order__img-1 {
+    width: 340px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -969,6 +969,12 @@ img {
     column-gap: 11rem;
     padding-block: 10rem 4rem;
   }
+
+  .about__data {
+    order: 1;
+    text-align: initial;
+    margin-bottom: 7rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

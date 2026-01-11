@@ -1174,6 +1174,11 @@ img {
   .footer {
     padding-block: 4rem 2rem;
   }
+
+  .footer__container {
+    grid-template-columns: repeat(2, max-content);
+    justify-content: space-between;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

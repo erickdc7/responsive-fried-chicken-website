@@ -1105,6 +1105,10 @@ img {
   .combo__title {
     letter-spacing: 40px;
   }
+
+  .combo__data {
+    bottom: 1.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -1097,6 +1097,10 @@ img {
   .combo__number span {
     font-size: var(--h2-font-size);
   }
+
+  .combo__titles {
+    top: 1rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

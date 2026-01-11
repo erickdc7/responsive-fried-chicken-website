@@ -1120,6 +1120,13 @@ img {
     padding: 2rem;
     border-radius: 1.5rem;
   }
+
+  .contact__container {
+    grid-template-columns: 550px 450px;
+    align-items: center;
+    column-gap: 3.5rem;
+    padding-block: 9rem 13rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

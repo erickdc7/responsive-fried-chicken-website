@@ -1184,6 +1184,10 @@ img {
     grid-template-columns: repeat(3, max-content);
     column-gap: 4rem;
   }
+
+  .footer__logo {
+    align-self: flex-start;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

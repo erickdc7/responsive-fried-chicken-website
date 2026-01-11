@@ -1150,6 +1150,11 @@ img {
     width: 120px;
     bottom: -9rem;
   }
+
+  .contact__dam-3 {
+    width: 100px;
+    bottom: -8rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

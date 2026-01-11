@@ -1115,6 +1115,11 @@ img {
     font-size: var(--h3-font-size);
     border-radius: 1rem;
   }
+
+  .combo__price {
+    padding: 2rem;
+    border-radius: 1.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

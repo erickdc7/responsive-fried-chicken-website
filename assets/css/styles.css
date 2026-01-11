@@ -1109,6 +1109,12 @@ img {
   .combo__data {
     bottom: 1.5rem;
   }
+
+  .combo__info {
+    padding: 1.25rem 2.5rem 1.25rem 1.25rem;
+    font-size: var(--h3-font-size);
+    border-radius: 1rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

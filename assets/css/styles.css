@@ -1063,6 +1063,11 @@ img {
   .order__title {
     font-size: var(--h3-font-size);
   }
+
+  .order__subtitle {
+    font-size: var(--normal-font-size);
+    margin-bottom: 1.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

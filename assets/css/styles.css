@@ -1170,6 +1170,10 @@ img {
   .contact__subtitle {
     margin-bottom: 1rem;
   }
+
+  .footer {
+    padding-block: 4rem 2rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

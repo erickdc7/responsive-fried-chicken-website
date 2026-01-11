@@ -1133,6 +1133,12 @@ img {
     top: 3rem;
     right: 8rem;
   }
+
+  .contact__img-2 {
+    width: 160px;
+    top: 5rem;
+    right: 4rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

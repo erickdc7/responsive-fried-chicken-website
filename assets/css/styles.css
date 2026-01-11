@@ -1089,6 +1089,10 @@ img {
   .combo__img {
     width: 750px;
   }
+
+  .combo__numbers {
+    column-gap: 10rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

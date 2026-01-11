@@ -1085,6 +1085,10 @@ img {
   .combo__container {
     padding-block: 6rem 13rem;
   }
+
+  .combo__img {
+    width: 750px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

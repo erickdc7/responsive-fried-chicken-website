@@ -1081,6 +1081,10 @@ img {
     right: 1.25rem;
     bottom: 1.25rem;
   }
+
+  .combo__container {
+    padding-block: 6rem 13rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

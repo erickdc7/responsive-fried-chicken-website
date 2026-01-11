@@ -1127,6 +1127,12 @@ img {
     column-gap: 3.5rem;
     padding-block: 9rem 13rem;
   }
+
+  .contact__img-1 {
+    width: 190px;
+    top: 3rem;
+    right: 8rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -1093,6 +1093,10 @@ img {
   .combo__numbers {
     column-gap: 10rem;
   }
+
+  .combo__number span {
+    font-size: var(--h2-font-size);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

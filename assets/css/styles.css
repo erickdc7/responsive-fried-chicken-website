@@ -1166,6 +1166,10 @@ img {
     grid-template-columns: repeat(2, 1fr);
     gap: 4rem;
   }
+
+  .contact__subtitle {
+    margin-bottom: 1rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

@@ -1202,6 +1202,10 @@ img {
   .footer__form {
     justify-self: initial;
   }
+
+  .footer__title {
+    text-align: initial;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

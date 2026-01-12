@@ -80,3 +80,4 @@ const sr = ScrollReveal({
 sr.reveal(`.home__data`)
 sr.reveal(`.home__images`, { delay: 1000 })
 sr.reveal(`.home__dam-1`, { delay: 1000, scale: 0, rotate: { z: 45 } })
+sr.reveal(`.home__dam-2`, { delay: 1000, scale: 0, rotate: { z: 45 } })

@@ -84,3 +84,4 @@ sr.reveal(`.home__dam-2, .home__dam-3`, { delay: 1400, scale: 0, rotate: { z: 45
 sr.reveal(`.home__dam-4`, { delay: 1700, scale: 0, rotate: { z: 45 } })
 sr.reveal(`.home__dam-5`, { delay: 1800, scale: 0, rotate: { z: 45 } })
 sr.reveal(`.about__img-1`, { delay: 600, origin: 'right' })
+sr.reveal(`.about__img-2`, { delay: 800, origin: 'left' })

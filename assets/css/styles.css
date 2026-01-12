@@ -1196,6 +1196,12 @@ img {
   .footer__logo span {
     font-size: var(--h3-font-size);
   }
+
+  .footer__social,
+  .footer__pay,
+  .footer__form {
+    justify-self: initial;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */

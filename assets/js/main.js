@@ -101,3 +101,4 @@ sr.reveal(`.contact__img-1`, { delay: 1000, distance: 0, scale: 0, rotate: { z: 
 sr.reveal(`.contact__img-2`, { delay: 1200, distance: 0, scale: 0, rotate: { z: 45 } })
 sr.reveal(`.contact__dam-1`, { delay: 1400, scale: 0, rotate: { z: 45 } })
 sr.reveal(`.contact__dam-3`, { delay: 1600, scale: 0, rotate: { z: 45 } })
+sr.reveal(`.contact__dam-2`, { delay: 1800, scale: 0, rotate: { z: 45 } })

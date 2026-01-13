@@ -77,7 +77,7 @@ const sr = ScrollReveal({
     reset: true
 })
 
-sr.reveal(`.home__data, .about__data`)
+sr.reveal(`.home__data, .about__data, .footer__container`)
 sr.reveal(`.home__images`, { delay: 1000 })
 sr.reveal(`.home__dam-1`, { delay: 1000, scale: 0, rotate: { z: 45 } })
 sr.reveal(`.home__dam-2, .home__dam-3`, { delay: 1400, scale: 0, rotate: { z: 45 } })
